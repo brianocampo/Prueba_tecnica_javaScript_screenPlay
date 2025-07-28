@@ -1,0 +1,23 @@
+{
+  "name": "prueba_tecnica_javascript_screenplay",
+  "version": "1.0.0",
+  "description": "Prueba tecnica siigo usando JavaScript + playwright + screenplay",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianocampo/Prueba_tecnica_javaScript_screenPlay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/brianocampo/Prueba_tecnica_javaScript_screenPlay/issues"
+  },
+  "homepage": "https://github.com/brianocampo/Prueba_tecnica_javaScript_screenPlay#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
